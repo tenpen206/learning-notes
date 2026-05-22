@@ -1,17 +1,16 @@
-learning notes
+# 學習筆記
 
-this repository is my personal learning notebook
+這是我的個人學習筆記庫。
 
-i will use it to collect short notes while learning github coding web pages and ai tools
+我會用這裡記錄 GitHub、程式、網頁和 AI 工具的學習內容。
 
-notes
+## 目前筆記
 
-github basics
-github-basics.md
+- [GitHub 基礎](github-basics.md)
 
-learning goals
+## 學習目標
 
-understand how repositories work
-practice writing markdown
-keep notes organized in one place
-build small projects step by step
+- 了解 repository 是什麼
+- 練習用 Markdown 寫筆記
+- 把學到的東西整理在同一個地方
+- 一步一步做出小作品
