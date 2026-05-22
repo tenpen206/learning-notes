@@ -6,12 +6,12 @@ i will use it to collect short notes while learning github coding web pages and 
 
 notes
 
-- github basics in github-basics.md
+github basics
+github-basics.md
 
-- learning goals
+learning goals
 
-- - understand how repositories work
-  - - practice writing markdown
-    - - keep notes organized in one place
-      - - build small projects step by step
-        - 
+understand how repositories work
+practice writing markdown
+keep notes organized in one place
+build small projects step by step
